@@ -142,6 +142,7 @@ CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 4K测试,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+美国大片4K,http://61.52.156.80:808/hls/66/index.m3u8
 河南卫视4K测试,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 斗鱼4K影院,http://159.75.85.63:35455/douyu/9249162
@@ -195,8 +196,8 @@ YY舞蹈小影,http://mmitv.top/pltv/yy.php?id=1349695640
 哔哩舞蹈学妹,https://www.goodiptv.club/bilibili/9863884
 哔哩舞蹈学妹,http://zzy789.xyz/bili.php?id=9863884
 
-虎牙,#genre#
 虎牙舞蹈星秀可可,https://www.goodiptv.club/huya/645324
+虎牙娱乐可爱埋埋,https://www.goodiptv.club/huya/222624
 虎牙舞蹈星秀快乐,https://www.goodiptv.club/huya/880351
 虎牙舞蹈星秀勺药,https://www.goodiptv.club/huya/142374
 虎牙舞蹈凌烟烟,https://www.goodiptv.club/huya/691293
@@ -214,6 +215,7 @@ YY舞蹈小影,http://mmitv.top/pltv/yy.php?id=1349695640
 虎牙穿越火线绝迹,https://www.goodiptv.club/huya/115959
 虎牙主机游戏楚河,https://www.goodiptv.club/huya/998
 虎牙魔兽世界嫣嫣,https://www.goodiptv.club/huya/272490
+虎牙王者西西,https://www.goodiptv.club/huya/584260
 虎牙王者吕德华,https://www.goodiptv.club/huya/243547
 虎牙游戏狂鸟,https://www.goodiptv.club/huya/sineike
 虎牙王者射手,https://www.goodiptv.club/huya/271427
@@ -264,7 +266,7 @@ yy小品3,http://mmitv.top/pltv/yy.php?id=1354936198
 我秀轮播直播点击切换,http://mmitv.top/test/woxiu.php?id=top
 网络热门歌曲点击切换,https://api.vvhan.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C
 
-﻿﻿﻿﻿﻿🇨🇳随机姐姐,#genre#
+随机姐姐,#genre#
 小姐姐①,http://tv.nxog.top/m/404/xjj.php
 小姐姐②,http://tv.nxog.top/m/404/xjj.php
 小姐姐③,http://tv.nxog.top/m/404/xjj.php
@@ -668,7 +670,7 @@ SodaRemix2021,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/16223
 「韩」TroubleMaker ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
 「韩」TroubleMaker-Now ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
 
-4.0🍌_xjvip,#genre#
+4.0🍌_111,#genre#
 「射区独家-推车哥探花」温婉可人口技一流 气质美人极致服务,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/je/z7/ft/ou/4d5dd95c4f55404ab77f081b4f1d9615.m3u8?
 「射区独家-小文探花」懵懂少女绝顶失神 玉腿横陈少经床事,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/ov/ph/4g/76/6adb951aded14269b9c0c82d3955251d.m3u8?
 「射区独家- 老司机探花」胸大腰细眉眼如丝 母狗网红发情求欢,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/45/j2/e6/mp/fe17bcf982824ca9b151759f88e8320f.m3u8?
